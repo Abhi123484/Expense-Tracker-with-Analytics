@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "password": "password123"
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "password": "password123"
+    }
+  ],
+  "expenses": [
+    {
+      "name": "Breakfast at cafe",
+      "amount": 250,
+      "date": "2024-03-28",
+      "category": "Food",
+      "payment": "Card",
+      "notes": "Morning meeting with team"
+    },
+    {
+      "name": "Uber to office",
+      "amount": 150,
+      "date": "2024-03-28",
+      "category": "Transport",
+      "payment": "UPI",
+      "notes": ""
+    },
+    {
+      "name": "Movie tickets",
+      "amount": 500,
+      "date": "2024-03-28",
+      "category": "Entertainment",
+      "payment": "Card",
+      "notes": "Watched Inception with family"
+    },
+    {
+      "name": "Gym membership",
+      "amount": 1500,
+      "date": "2024-03-25",
+      "category": "Health",
+      "payment": "Bank Transfer",
+      "notes": "Monthly subscription"
+    },
+    {
+      "name": "Shoes",
+      "amount": 2500,
+      "date": "2024-03-27",
+      "category": "Shopping",
+      "payment": "Card",
+      "notes": "Nike Air Max"
+    },
+    {
+      "name": "Electricity bill",
+      "amount": 1200,
+      "date": "2024-03-20",
+      "category": "Utilities",
+      "payment": "Net Banking",
+      "notes": "Monthly utility"
+    },
+    {
+      "name": "Online course",
+      "amount": 3000,
+      "date": "2024-03-15",
+      "category": "Education",
+      "payment": "Card",
+      "notes": "Python advanced programming"
+    },
+    {
+      "name": "Coffee",
+      "amount": 120,
+      "date": "2024-03-29",
+      "category": "Food",
+      "payment": "Cash",
+      "notes": "Afternoon break"
+    },
+    {
+      "name": "Book",
+      "amount": 599,
+      "date": "2024-03-29",
+      "category": "Education",
+      "payment": "Card",
+      "notes": "Clean Code by Robert Martin"
+    },
+    {
+      "name": "Lunch",
+      "amount": 450,
+      "date": "2024-03-29",
+      "category": "Food",
+      "payment": "UPI",
+      "notes": "With colleagues"
+    },
+    {
+      "name": "Metro pass",
+      "amount": 400,
+      "date": "2024-03-26",
+      "category": "Transport",
+      "payment": "Card",
+      "notes": "Weekly public transit"
+    },
+    {
+      "name": "Medical checkup",
+      "amount": 1000,
+      "date": "2024-03-22",
+      "category": "Health",
+      "payment": "Cash",
+      "notes": "Regular annual checkup"
+    }
+  ]
+}
